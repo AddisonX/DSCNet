@@ -1,0 +1,7 @@
+[2024-01-04 12:36:56,125][S3_Train_Process.py] start training!
+[2024-01-04 12:37:09,933][S3_Train_Process.py] Epoch:[1/5]  lr=0.000100  loss=0.39841  dice_mean=0.0000 max_dice=0.0000 acc=0.0000
+[2024-01-04 12:37:22,859][S3_Train_Process.py] Epoch:[2/5]  lr=0.000100  loss=0.37326  dice_mean=0.0000 max_dice=0.0000 acc=0.0000
+[2024-01-04 12:37:35,962][S3_Train_Process.py] Epoch:[3/5]  lr=0.000100  loss=0.36806  dice_mean=0.0000 max_dice=0.0000 acc=0.0000
+[2024-01-04 12:37:48,881][S3_Train_Process.py] Epoch:[4/5]  lr=0.000100  loss=0.35249  dice_mean=0.0000 max_dice=0.0000 acc=0.0000
+[2024-01-04 12:38:01,833][S3_Train_Process.py] Epoch:[5/5]  lr=0.000100  loss=0.34109  dice_mean=0.0000 max_dice=0.0000 acc=0.0000
+[2024-01-04 12:38:01,833][S3_Train_Process.py] finish training!

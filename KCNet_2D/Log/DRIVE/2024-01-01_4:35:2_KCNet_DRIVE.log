@@ -1,0 +1,2 @@
+[2024-01-01 04:35:02,734][S3_Train_Process.py] start training!
+[2024-01-01 04:35:09,228][S3_Train_Process.py] Epoch:[1/400]  lr=0.000100  loss=3.20640  dice_mean=0.0000 max_dice=0.0000
